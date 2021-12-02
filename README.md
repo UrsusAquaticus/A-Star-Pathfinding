@@ -1,6 +1,6 @@
 # A* Pathfinding
 The scripts for an incomplete game I was experimenting with.
-Last I left off, I was working on A* pathfinding performance, the next step was implementing inter unit combat.
+Last I left off, I was working on A* pathfinding performance, the next step was implementing inter-unit combat.
 * A grid is randomly generated with either walkable or wall tiles.
 * Each "unit" here is finding a random walkable tile, requesting a path to said tile, then making it's way there following the provided path.
 * When the player clicks, drags and releases, the units within the rectangle will be selected.
